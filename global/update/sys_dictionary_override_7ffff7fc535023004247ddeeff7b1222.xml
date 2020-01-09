@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_dictionary_override">
+    <sys_dictionary_override action="INSERT_OR_UPDATE">
+        <attributes>tree_picker=false</attributes>
+        <attributes_override>true</attributes_override>
+        <base_table>task</base_table>
+        <calculation/>
+        <calculation_override>false</calculation_override>
+        <claim>[{"id":"f4c214b077120010ca3ab5b26810610b","version":"1.0.0","timestamp":1578596161953},{"id":"com.snc.best_practice.problem.madrid","version":"1.0.0","timestamp":1578596161946}]</claim>
+        <default_value/>
+        <default_value_override>false</default_value_override>
+        <dependent/>
+        <dependent_override>false</dependent_override>
+        <display_override>false</display_override>
+        <element>assignment_group</element>
+        <mandatory>false</mandatory>
+        <mandatory_override>false</mandatory_override>
+        <name>problem_task</name>
+        <read_only>false</read_only>
+        <read_only_override>false</read_only_override>
+        <reference_qual/>
+        <reference_qual_override>false</reference_qual_override>
+        <sys_class_name>sys_dictionary_override</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-31 07:26:00</sys_created_on>
+        <sys_id>7ffff7fc535023004247ddeeff7b1222</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>assignment_group</sys_name>
+        <sys_package display_value="G1 App" source="f4c214b077120010ca3ab5b26810610b">f4c214b077120010ca3ab5b26810610b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="G1 App">f4c214b077120010ca3ab5b26810610b</sys_scope>
+        <sys_update_name>sys_dictionary_override_7ffff7fc535023004247ddeeff7b1222</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-09 18:56:02</sys_updated_on>
+    </sys_dictionary_override>
+</record_update>

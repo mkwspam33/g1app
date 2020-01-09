@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="u_str2" label="Str2" language="en" table="u_new_table">
+    <sys_documentation element="u_str3" label="Str3" language="en" table="u_new_table">
         <sys_documentation action="INSERT_OR_UPDATE">
             <claim/>
-            <element>u_str2</element>
+            <element>u_str3</element>
             <help/>
             <hint/>
-            <label>Str2</label>
+            <label>Str3</label>
             <language>en</language>
             <name>u_new_table</name>
-            <plural>Str2s</plural>
+            <plural>Str3s</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-01-09 16:49:40</sys_created_on>
-            <sys_id>47d6147477120010ca3ab5b2681061d1</sys_id>
+            <sys_created_on>2020-01-09 16:52:44</sys_created_on>
+            <sys_id>45675c7477120010ca3ab5b2681061e1</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>Str2</sys_name>
+            <sys_name>Str3</sys_name>
             <sys_package display_value="G1 App" source="f4c214b077120010ca3ab5b26810610b">f4c214b077120010ca3ab5b26810610b</sys_package>
             <sys_policy/>
             <sys_scope display_value="G1 App">f4c214b077120010ca3ab5b26810610b</sys_scope>
-            <sys_update_name>sys_documentation_u_new_table_u_str2_en</sys_update_name>
+            <sys_update_name>sys_documentation_u_new_table_u_str3_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-01-09 16:49:40</sys_updated_on>
+            <sys_updated_on>2020-01-09 16:52:44</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

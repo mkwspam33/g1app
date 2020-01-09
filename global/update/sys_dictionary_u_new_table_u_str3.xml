@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="u_str2" table="u_new_table">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="u_str3" table="u_new_table">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
@@ -15,7 +15,7 @@
         <choice_field/>
         <choice_table/>
         <claim/>
-        <column_label>Str2</column_label>
+        <column_label>Str3</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -28,7 +28,7 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>u_str2</element>
+        <element>u_str3</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
@@ -53,16 +53,16 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-01-09 16:49:39</sys_created_on>
-        <sys_id>83d6147477120010ca3ab5b2681061d1</sys_id>
+        <sys_created_on>2020-01-09 16:52:43</sys_created_on>
+        <sys_id>0d675c7477120010ca3ab5b2681061df</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Str2</sys_name>
+        <sys_name>Str3</sys_name>
         <sys_package display_value="G1 App" source="f4c214b077120010ca3ab5b26810610b">f4c214b077120010ca3ab5b26810610b</sys_package>
         <sys_policy/>
         <sys_scope display_value="G1 App">f4c214b077120010ca3ab5b26810610b</sys_scope>
-        <sys_update_name>sys_dictionary_u_new_table_u_str2</sys_update_name>
+        <sys_update_name>sys_dictionary_u_new_table_u_str3</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-01-09 16:55:05</sys_updated_on>
+        <sys_updated_on>2020-01-09 18:47:13</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
